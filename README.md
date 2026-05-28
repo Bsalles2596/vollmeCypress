@@ -1,6 +1,6 @@
 # VollMe Cypress
 
-Projeto monorepo de automação de testes E2E com Cypress para uma aplicação de clínica médica.
+Projeto de automação de testes E2E com Cypress para uma aplicação de clínica médica.
 
 ## Visão geral
 
